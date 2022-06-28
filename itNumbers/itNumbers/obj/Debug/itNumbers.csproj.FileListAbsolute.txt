@@ -1,0 +1,8 @@
+c:\users\shree\documents\visual studio 2013\Projects\itNumbers\itNumbers\bin\Debug\itNumbers.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\itNumbers\itNumbers\obj\Debug\itNumbers.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\itNumbers\itNumbers\obj\Debug\itNumbers.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\itNumbers\itNumbers\obj\Debug\itNumbers.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\itNumbers\itNumbers\bin\Debug\itNumbers.exe
+c:\users\shree\documents\visual studio 2013\Projects\itNumbers\itNumbers\bin\Debug\itNumbers.pdb
+c:\users\shree\documents\visual studio 2013\Projects\itNumbers\itNumbers\obj\Debug\itNumbers.exe
+c:\users\shree\documents\visual studio 2013\Projects\itNumbers\itNumbers\obj\Debug\itNumbers.pdb

@@ -1,0 +1,9 @@
+c:\users\shree\documents\visual studio 2013\Projects\getNumbers\getNumbers\bin\Debug\getNumbers.exe.config
+c:\users\shree\documents\visual studio 2013\Projects\getNumbers\getNumbers\bin\Debug\getNumbers.exe
+c:\users\shree\documents\visual studio 2013\Projects\getNumbers\getNumbers\bin\Debug\getNumbers.pdb
+c:\users\shree\documents\visual studio 2013\Projects\getNumbers\getNumbers\obj\Debug\getNumbers.csprojResolveAssemblyReference.cache
+c:\users\shree\documents\visual studio 2013\Projects\getNumbers\getNumbers\obj\Debug\getNumbers.Form1.resources
+c:\users\shree\documents\visual studio 2013\Projects\getNumbers\getNumbers\obj\Debug\getNumbers.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2013\Projects\getNumbers\getNumbers\obj\Debug\getNumbers.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2013\Projects\getNumbers\getNumbers\obj\Debug\getNumbers.exe
+c:\users\shree\documents\visual studio 2013\Projects\getNumbers\getNumbers\obj\Debug\getNumbers.pdb
